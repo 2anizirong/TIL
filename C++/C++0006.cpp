@@ -1,3 +1,5 @@
+// 1100
+
 #include <iostream>
 #define NUM 8
 using namespace std;

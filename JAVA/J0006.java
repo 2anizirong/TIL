@@ -1,4 +1,5 @@
 // 2675
+
 import java.util.Scanner;
 
 public class Main

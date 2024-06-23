@@ -14,7 +14,7 @@ int main()
     
     for(int i=0;i<n1.length();i++){
         for(int j=0;j<n2.length();j++){
-            total+=(n1[i]-'0')*(n2[j]-'0');     // 문자에서 '0'을 빼서 실제 값으로 계산산
+            total+=(n1[i]-'0')*(n2[j]-'0');     // 문자에서 '0'을 빼서 실제 값으로 계산
         }
     }
     cout<<total;

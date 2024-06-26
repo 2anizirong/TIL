@@ -29,7 +29,7 @@ public class Main {
             }
 
             if (ok) {
-                if (w > (o /2) && w < (o * 2)) System.out.println(cnt + " :-)"); 
+                if (w > (o / 2) && w < (o * 2)) System.out.println(cnt + " :-)"); 
                 else System.out.println(cnt + " :-(");
             } 
             else System.out.println(cnt + " RIP");

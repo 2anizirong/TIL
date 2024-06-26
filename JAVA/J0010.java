@@ -18,7 +18,7 @@ public class Main {
             int n;
 
             while (true) {
-                patAction = sc.next().charAt(0);
+                patAction = sc.next().charAt(0);        // 자바에서 char 입력하는 방법!
                 n = sc.nextInt();
 
                 if (patAction == '#' && n == 0) break;

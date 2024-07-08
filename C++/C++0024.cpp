@@ -18,3 +18,22 @@ int main()
 
     return 0;
 }
+
+// ====================================================================================
+
+// 2609
+
+#include <iostream>
+#include <numeric>          // C++ 17부터 <numeric>헤더에 gcd, lcm 함수 추가
+using namespace std;
+
+int main()
+{
+    int A, B;
+    cin >> A >> B;
+    
+    cout << gcd(A, B) << endl;
+    cout << lcm(A, B) << endl;
+
+    return 0;
+}

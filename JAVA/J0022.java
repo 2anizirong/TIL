@@ -22,8 +22,10 @@ public class Main
 		}
 	}
 }
+
 // -----------------------------------------------------------------------------
 // 시간 초과가 떠서 StringBuffer 쓰기로!!
+
 import java.util.Scanner;
 import java.util.Arrays;
 
